@@ -1,6 +1,6 @@
 # Pose Estimation
 
-![image](https://drive.google.com/uc?export=download&id=1yAcsvNSHjWhUb7H2Fu-0yEQNxVKJCgoL)
+![image](https://drive.google.com/uc?export=download&id=16LtDI2XVf4gwTL-0FqYE7jQOofe5HRtj)
 
 ## Table of Contents
 1. [Overview](#overview)
